@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'CyberBruhArmy',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'cyberbruharmy.in',
   author: 'CyberBruhArmy',
 
   // open graph metadata (optional)
