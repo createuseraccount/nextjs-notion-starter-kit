@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'CyberBruhArmy',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Cyber Security Blog',
 
   // social usernames (optional)
   twitter: 'cyberbruharmy',
