@@ -22,7 +22,7 @@ export default siteConfig({
   linkedin: 'cyberbruharmy',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
-  // youtube: '#', // cyberbruharmy or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
+  // youtube: '#', // optional youtube channel name or `channel/cyberbruarmy`
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
